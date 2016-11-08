@@ -3,3 +3,5 @@
 *.mp4
 
 *.r2rnav
+data/images/remote
+data/extent/remote
